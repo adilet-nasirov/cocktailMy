@@ -1,1 +1,0 @@
-const text= 'hey dude';
